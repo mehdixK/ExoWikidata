@@ -1,4 +1,6 @@
-# Peintures de Claude Monet - Wikidata & Requêtes SPARQL
+# Wikidata & Requêtes SPARQL
+
+## Peintures de Claude Monet
 
 ### Requête 1
 
